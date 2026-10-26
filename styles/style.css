@@ -1,0 +1,138 @@
+@font-face {
+    font-family: "Rubik Dirt";
+    src: url("../fonts/RubikDirt-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+header {
+    text-align: left;
+    background-color:darkgray;
+    padding: 20px 20px 0px 20px;
+    padding-bottom: 10px;
+    flex-direction: row;
+}
+
+ul {
+    display: flex;
+      gap: 30px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  
+}
+
+.nav-list {
+    flex-direction: row;
+  list-style: none; /* Убираем маркеры списка */
+  padding: 0; /* Убираем отступы */
+}
+
+body {
+    font-family: "Rubik Dirt"; 
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+}
+
+h1,h2 {
+    color: aliceblue;
+    margin-top: 0;
+    display: block;
+
+}
+
+#Hmemb {
+    margin-top: 20px;
+}
+
+#Highlights {
+    background-color: dimgray;
+    padding: 200px;
+}
+
+#Members {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 1%;
+    
+}
+
+.Memb {
+    padding: 10px;
+    background-color: dimgray;
+    display: block;
+    min-width: 200px;
+    max-width: 200px;
+    height: 300px;
+    background-position: center ;
+}
+
+.Memb:hover {
+    background-color: aqua;
+    background-size: 250%;
+}
+
+img {
+    max-width: 200px;
+}
+
+.IMemb {   
+    object-fit: scale-down;
+}
+
+#Lust {
+    background-image: url(../images/Lust.png);
+}
+
+#Greed {
+    background-image: url(../images/Greed.png);
+}
+
+#Envy {
+   background-image: url(../images/Envy.png);
+}
+
+#Wrath {
+    background-image: url(../images/Wrath.png);
+}
+
+#Despondency {
+   background-image: url(../images/Despondency.png);
+}
+
+#Gluttony {
+    background-image: url(../images/Gluttony.png);
+}
+
+#Sloth {
+    background-image: url(../images/Sloth.png);
+}
+
+#Pride {
+    background-image: url(../images/Pride.png);
+}
+
+#OurPower {
+    display: block;
+    text-align: center;
+}
+
+footer {
+    padding: 20px;
+    background-color: azure;
+}
+
+.foot {
+    color: black;
+}
