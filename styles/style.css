@@ -80,7 +80,7 @@ h1,h2 {
 
 .Memb:hover {
     background-color: aqua;
-    background-size: 250%;
+    background-size: 115%;
 }
 
 img {
@@ -92,35 +92,35 @@ img {
 }
 
 #Lust {
-    background-image: url(../images/Lust.png);
+    background-image: url(../images/Lust-Cut.png);
 }
 
 #Greed {
-    background-image: url(../images/Greed.png);
+    background-image: url(../images/Greed-Cut.png);
 }
 
 #Envy {
-   background-image: url(../images/Envy.png);
+   background-image: url(../images/Envy-Cut.png);
 }
 
 #Wrath {
-    background-image: url(../images/Wrath.png);
+    background-image: url(../images/Wrath-Cut.png);
 }
 
 #Despondency {
-   background-image: url(../images/Despondency.png);
+   background-image: url(../images/Despondency-Cut.png);
 }
 
 #Gluttony {
-    background-image: url(../images/Gluttony.png);
+    background-image: url(../images/Gluttony-Cut.png);
 }
 
 #Sloth {
-    background-image: url(../images/Sloth.png);
+    background-image: url(../images/Sloth-Cut.png);
 }
 
 #Pride {
-    background-image: url(../images/Pride.png);
+    background-image: url(../images/Pride-Cut.png);
 }
 
 #OurPower {
